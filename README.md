@@ -25,9 +25,6 @@ Professor d'Informàtica especialitzat en Formació Professional (DAM, DAW i SMX
 
 - [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) ([web](https://jpardo20.github.io/moduls-i-ras/)) — Portal de consulta de mòduls i RA de DAM, DAW i SMX.
 
-<a href="https://github.com/jpardo20/moduls-i-ras" target="_blank">moduls-i-ras</a>
-
-
 ----
 
 - [`github-classroom-tools`](https://github.com/jpardo20/github-classroom-tools) — Eines de suport per a la gestió d'activitats amb GitHub Classroom.
