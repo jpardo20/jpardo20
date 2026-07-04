@@ -23,7 +23,13 @@ Professor d'Informàtica especialitzat en Formació Professional (DAM, DAW i SMX
 
 ## Repositoris destacats
 
-- [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) — Documentació de mòduls professionals i resultats d'aprenentatge.
+- [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) ([web](https://jpardo20.github.io/moduls-i-ras/)) — Portal de consulta de mòduls i RA de DAM, DAW i SMX.
+
+<a href="https://github.com/jpardo20/moduls-i-ras" target="_blank">moduls-i-ras</a>
+
+
+----
+
 - [`github-classroom-tools`](https://github.com/jpardo20/github-classroom-tools) — Eines de suport per a la gestió d'activitats amb GitHub Classroom.
 - [`0484-bases-de-dades`](https://github.com/jpardo20/0484-bases-de-dades) — Materials i activitats del mòdul de Bases de Dades (DAM).
 - [`0373-llenguatges-de-marques`](https://github.com/jpardo20/0373-llenguatges-de-marques) — Recursos docents de Llenguatges de Marques.
