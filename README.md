@@ -1,40 +1,35 @@
 # Hola! Sóc Joan Pardo
 
-Professor d'Informàtica especialitzat en Formació Professional (DAM, DAW i SMX).
+Professor d'Informàtica especialitzat en Formació Professional, especialment en els cicles de DAM, DAW i SMX.
+
+Combino més de 7 anys d'experiència docent amb més de 20 anys d'experiència professional en desenvolupament, sistemes i xarxes. M'interessa especialment la creació de materials docents oberts, l'automatització de processos d'avaluació i l'ús d'eines com GitHub Classroom, MkDocs i entorns Linux a l'aula.
 
 - Enginyer Tècnic en Informàtica de Gestió.
-- Més de 7 anys d'experiència docent en FP i docència universitària.
+- Professor d'FP i docència universitària.
 - Especialitats reconegudes pel Departament d'Educació:
   - 507 – Informàtica
   - 627 – Sistemes i Aplicacions Informàtiques
   - TEC – Tecnologia
-- Més de 20 anys d'experiència professional en desenvolupament, sistemes i xarxes.
-- Màster de Formació del Professorat (UNIR, TFM pendent de defensa - juliol 2026).
+- Màster de Formació del Professorat, UNIR. TFM pendent de defensa, juliol de 2026.
 
 ## Àrees d'interès
 
-- Java i Python
-- Bases de dades i SQL
+- Java, Python i programació orientada a objectes
+- Bases de dades, SQL i modelatge de dades
 - Linux, sistemes i xarxes
 - Robòtica educativa
-- Metodologies actives i aprenentatge basat en projectes (ABP)
-- Automatització de l'avaluació basada en Resultats d'Aprenentatge (RA)
-- Eines docents amb GitHub Classroom i MkDocs
+- Metodologies actives i aprenentatge basat en projectes
+- Automatització de l'avaluació basada en Resultats d'Aprenentatge
+- GitHub Classroom, MkDocs i eines docents obertes
 
 ## Repositoris destacats
 
-- [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) ([web](https://jpardo20.github.io/moduls-i-ras/)) — Portal de consulta de mòduls i RA de DAM, DAW i SMX.
-
-----
-
+- [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) ([web](https://jpardo20.github.io/moduls-i-ras/)) — Portal de consulta de mòduls professionals i Resultats d'Aprenentatge de DAM, DAW i SMX.
+- [`apunts-jpardo`](https://github.com/jpardo20/apunts-jpardo) — Portal de materials, apunts i recursos docents per a mòduls d'Informàtica d'FP.
 - [`github-classroom-tools`](https://github.com/jpardo20/github-classroom-tools) — Eines de suport per a la gestió d'activitats amb GitHub Classroom.
-- [`0484-bases-de-dades`](https://github.com/jpardo20/0484-bases-de-dades) — Materials i activitats del mòdul de Bases de Dades (DAM).
-- [`0373-llenguatges-de-marques`](https://github.com/jpardo20/0373-llenguatges-de-marques) — Recursos docents de Llenguatges de Marques.
 - [`sistema-correccio`](https://github.com/jpardo20/sistema-correccio) — Automatització de correccions i avaluació d'activitats.
-- [`mkdocs-aula-starter`](https://github.com/jpardo20/mkdocs-aula-starter) — Plantilla per generar apunts i documentació docent amb MkDocs.
 
 ## Enllaços
 
 - LinkedIn: https://linkedin.com/in/joanpardo
 - GitHub: https://github.com/jpardo20
-
