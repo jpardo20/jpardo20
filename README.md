@@ -22,12 +22,13 @@ Combino més de 7 anys d'experiència docent amb més de 20 anys d'experiència 
 - Automatització de l'avaluació basada en Resultats d'Aprenentatge
 - GitHub Classroom, MkDocs i eines docents obertes
 
+<!-- 
 ## Repositoris destacats
 
 - [`moduls-i-ras`](https://github.com/jpardo20/moduls-i-ras) ([web](https://jpardo20.github.io/moduls-i-ras/)) — Portal de consulta de mòduls professionals i Resultats d'Aprenentatge de DAM, DAW i SMX.
 - [`apunts-jpardo`](https://github.com/jpardo20/apunts-jpardo) — Portal de materials, apunts i recursos docents per a mòduls d'Informàtica d'FP.
 - [`github-classroom-tools`](https://github.com/jpardo20/github-classroom-tools) — Eines de suport per a la gestió d'activitats amb GitHub Classroom.
-- [`sistema-correccio`](https://github.com/jpardo20/sistema-correccio) — Automatització de correccions i avaluació d'activitats.
+- [`sistema-correccio`](https://github.com/jpardo20/sistema-correccio) — Automatització de correccions i avaluació d'activitats. -->
 
 ## Enllaços
 
